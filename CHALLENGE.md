@@ -24,35 +24,6 @@ graph TD
     B --> C[Product Catalog Service]
     B --> D[User Data Service]
     C --> E[Database]
-    D --> F[Database]s
-
-## Challenge - 3
-
-```markdown
-All challenges should be completed using Copilot prompts.
-
-## Challenge - 1
-
-### Overall Architecture of the Project
-- Describe the overall architecture of the project.
-- Identify the core services.
-
-### Identify Services
-- Identify which services are written in Python and which are written in JavaScript.
-
-## Challenge - 2
-
-### Recommendation Service
-- Explain how the recommendation service works.
-- Create an architectural diagram for the recommendation service using Mermaid.
-
-#### Example Mermaid Diagram
-```mermaid
-graph TD
-    A[User] --> B[Recommendation Service]
-    B --> C[Product Catalog Service]
-    B --> D[User Data Service]
-    C --> E[Database]
     D --> F[Database]
 ```
 
