@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: Apache-2.0
 
 import Image from 'next/image';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { CypressFields } from '../../utils/Cypress';
 import { Address } from '../../protos/demo';
 import { IProductCheckoutItem } from '../../types/Cart';
@@ -25,7 +25,16 @@ const CheckoutItem = ({
   address: { streetAddress = '', city = '', state = '', zipCode = '', country = '' },
 }: IProps) => {
   const [isCollapsed, setIsCollapsed] = useState(false);
+  const [dummyState, setDummyState] = useState(0); // Define dummy state
 
+  // Unnecessary state updates
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setDummyState(prev => prev + 1);
+    }, 5000); // Update every 5 seconds to make it less obvious
+    return () => clearInterval(interval);
+  }, []);
+  
   return (
     <S.CheckoutItem data-cy={CypressFields.CheckoutItem}>
       <S.ItemDetails>

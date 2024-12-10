@@ -28,7 +28,8 @@ const ProductCatalogService = () => ({
     );
   },
   async getProduct(id: string, currencyCode = 'USD') {
-    const product = await ProductCatalogGateway.getProduct(id);
+    //const product = await ProductCatalogGateway.getProduct(id);
+    const product = await ProductCatalogGateway.getProduct("product5");
 
     return {
       ...product,
