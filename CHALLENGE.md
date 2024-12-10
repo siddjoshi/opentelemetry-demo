@@ -30,7 +30,7 @@ graph TD
 ## Challenge - 3
 
 ### Unit Test Cases for Recommendation Service
-- Suggest all possible unit test cases for the recommendation service.
+- Create a comprehensive set of unit test cases for a recommendation service, covering various scenarios and edge cases.
 - Generate code for test cases using `pytest` and `Mock` frameworks.
 
 ## Challenge - 4
