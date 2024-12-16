@@ -80,10 +80,19 @@ The **Recommendation Service** in the application currently has no test cases, l
 #### 1. Understand the Recommendation Service  
 Examine the codebase of the **Recommendation Service** to understand its core functionality, endpoints, and dependencies. Focus on identifying the inputs, outputs, and key business logic that should be tested.
 
-#### 2. Use GitHub Copilot Chat to Generate Test Cases  
-Leverage **Copilot Chat** to help you create robust and meaningful test cases. Use prompts to guide Copilot in generating tests. Ask copilot to generate test case code using `pytest` and `Mock` frameworks.
+#### 2. Identify Test Scenarios  
+Determine a diverse set of scenarios to test, including:
+- Core functionality of the recommendation logic.
+- Handling invalid inputs or empty datasets.
+- Edge cases
+  
+#### 3. Use GitHub Copilot Chat to Generate Test Cases  
+Leverage **Copilot Chat** to help you write code for the identified test scenarios. Use prompts to guide Copilot in generating tests. Ask copilot to generate test case code using `pytest` and `Mock` frameworks.
 
-
+### Success Criteria
+- You have identified at least **10 distinct scenarios**, including **edge cases**, to write test cases for.  
+- You have successfully generated the code for these test cases using **Copilot Chat**.
+  
 </details>
 
 <details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
