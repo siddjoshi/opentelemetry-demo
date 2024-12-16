@@ -49,6 +49,9 @@ The adventurer who gets the below right clears this level!
 3. The implementation languages 
 </details>
 
+<details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
+<summary>Challenge - 2</summary>
+  
 ## Challenge - 2
 ### Explain the Recommendation Service
 Hey adventurer! Are you a visual person? Someone who loves to dismantle & re-assemble things. This level is for you!
@@ -65,6 +68,8 @@ graph TD
 ```
 
 _hint: You may need to ensure the Mermaid Chart Copilot extension is indeed available in your quiver, err browser_
+
+</details>
 
 <details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
 <summary>Challenge - 3</summary>
