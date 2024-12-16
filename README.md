@@ -101,9 +101,10 @@ Leverage **Copilot Chat** to help you write code for the identified test scenari
 <summary> <strong> Challenge - 4 </strong> </summary>
 
 ### Investigate Slow Checkout Issue
-- Users are reporting that the checkout process in the application is slow. Your task is to investigate the performance issues in the **checkout flow**.
 
-### Challenge Instructions
+Greetings, intrepid problem solver! A dark cloud hovers over the **Checkout Process**, with users complaining about its sluggishness. Your mission is to uncover and eliminate the source of these performance woes using **GitHub Copilot Chat**.
+
+### The Path to Victory
 
 #### 1. Understand the System Architecture  
 The checkout flow involves multiple services working together to process an order. Dive into the relevant files to understand how the services interact. Start by identifying the key services involved in the checkout process, focusing on their roles and dependencies.
@@ -125,15 +126,18 @@ Start with the **frontend code** to ensure the checkout request is properly init
 
 </details>
 
+Victory awaits you, adventurer! Step boldly into the depths of code and emerge triumphant.
+
 <details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
 <summary> <strong> Challenge - 5 </strong> </summary>
 
 ### Find the Bug
 
-### Scenario  
-The **Product Catalog Service** has a critical bug: it returns the details of the same product for all API calls, regardless of the input. Your task is to locate the source of the issue in the codebase and identify the affected code using **GitHub Copilot**.
+Oh no, explorer! The **Product Catalog Service** has fallen prey to a mysterious bug—regardless of the input, it returns the same product details for all API calls. The fate of accurate product information lies in your hands! Use **GitHub Copilot Chat** to hunt down this elusive bug.
 
-### Challenge Instructions
+Your detective skills are the key to restoring order to the Product Catalog Service. Best of luck, adventurer!
+
+### Mission Instructions
 
 #### 1. Investigate with Copilot Chat  
 Leverage **GitHub Copilot Chat** to debug the issue by asking targeted questions and prompts
