@@ -28,8 +28,7 @@ https://github.com/user-attachments/assets/82a16a20-d86d-443c-a40d-e3989b848f4b
 # On with the Challenges!
 <details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
 <summary> <strong> Challenge - 1 </strong> </summary>
-    
-## Challenge - 1
+  
 ### Overall Architecture of the Project and Identify Services
 
 <img width="957" alt="image" src="https://github.com/user-attachments/assets/7aa88a2c-86b4-4f3e-a65f-a615e66bf293" />
@@ -50,9 +49,8 @@ The adventurer who gets the below right clears this level!
 </details>
 
 <details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
-<summary>Challenge - 2</summary>
-  
-## Challenge - 2
+<summary> <strong> Challenge - 2 </strong> </summary>
+
 ### Explain the Recommendation Service
 Hey adventurer! Are you a visual person? Someone who loves to dismantle & re-assemble things. This level is for you!
 With the help of the Copilot Extension for Mermaid Charts, create an architecture diagram of the `Recommendation Service`. 
@@ -72,9 +70,8 @@ _hint: You may need to ensure the Mermaid Chart Copilot extension is indeed avai
 </details>
 
 <details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
-<summary>Challenge - 3</summary>
-  
-## Challenge - 3
+<summary> <strong> Challenge - 3 </strong> </summary>
+
 ### Generate Test Cases for the Recommendation Service
 
 ### Scenario  
@@ -101,9 +98,7 @@ Leverage **Copilot Chat** to help you write code for the identified test scenari
 </details>
 
 <details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
-<summary>Challenge - 4</summary>
-  
-## Challenge - 4
+<summary> <strong> Challenge - 4 </strong> </summary>
 
 ### Investigate Slow Checkout Issue
 - Users are reporting that the checkout process in the application is slow. Your task is to investigate the performance issues in the **checkout flow**.
@@ -131,9 +126,7 @@ Start with the **frontend code** to ensure the checkout request is properly init
 </details>
 
 <details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
-<summary>Challenge - 5</summary>
-
-## Challenge - 5
+<summary> <strong> Challenge - 5 </strong> </summary>
 
 ### Find the Bug
 
