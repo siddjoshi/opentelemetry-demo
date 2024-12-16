@@ -152,4 +152,3 @@ With Copilot Chat, locate the exact section of the code causing the issue.
 - You have identified the specific code responsible for the bug using **GitHub Copilot Chat**.  
 
 </details>
-```
