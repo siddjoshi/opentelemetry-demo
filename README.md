@@ -64,17 +64,42 @@ graph TD
     D --> F[Database]
 ```
 
-_hint: You may need to ensure the Copilot extension is indeed available in your quiver, err browser_
+_hint: You may need to ensure the Mermaid Chart Copilot extension is indeed available in your quiver, err browser_
 
 ## Challenge - 3
 ### Unit Test Cases for Recommendation Service
 - Create a comprehensive set of unit test cases for a recommendation service, covering various scenarios and edge cases.
 - Generate code for test cases using `pytest` and `Mock` frameworks.
 
+<details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
+<summary>Challenge - 4</summary>
+  
 ## Challenge - 4
 
-### Checkout Performance Issue
-- Checkout is taking a lot of time. Identify the problem using Copilot prompts.
+### Investigate Slow Checkout Issue
+- Users are reporting that the checkout process in the application is slow. Your task is to investigate the performance issues in the **checkout flow**.
+
+### Challenge Instructions
+
+#### 1. Understand the System Architecture  
+The checkout flow involves multiple services working together to process an order. Dive into the relevant files to understand how the services interact. Start by identifying the key services involved in the checkout process, focusing on their roles and dependencies.
+
+#### 2. Use GitHub Copilot to Identify Issues  
+Leverage **GitHub Copilot** to analyze the code and spot potential bottlenecks. Use exploratory prompts to debug and understand the system, such as:
+- "Identify inefficiencies in the checkout process."
+- "Analyze the interaction between services in the checkout flow."
+- "Suggest optimizations for service-to-service communication."
+
+#### 3. Investigate Specific Components  
+Start with the **frontend code** to ensure the checkout request is properly initiated and examine the flow into the **checkout service**. Then, investigate the backend services involved in the checkout flow for bottlenecks such as:
+- Slow service-to-service communication.
+- Inefficient database queries.
+- Redundant API calls or synchronous operations that could be asynchronous.
+
+### Success Criteria  
+- You've identified at least one performance issue in the checkout process.
+
+</details>
 
 ## Challenge - 5
 
