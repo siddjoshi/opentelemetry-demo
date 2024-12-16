@@ -67,7 +67,7 @@ graph TD
 _hint: You may need to ensure the Mermaid Chart Copilot extension is indeed available in your quiver, err browser_
 
 <details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
-<summary>Challenge - 1</summary>
+<summary>Challenge - 3</summary>
   
 ## Challenge - 3
 ### Generate Test Cases for the Recommendation Service
