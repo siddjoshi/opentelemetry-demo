@@ -125,8 +125,26 @@ Start with the **frontend code** to ensure the checkout request is properly init
 
 </details>
 
+<details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
+<summary>Challenge - 5</summary>
+
 ## Challenge - 5
 
-### Product Catalog Service Bug
-- The product catalog service has a bug where it is returning a single product's details for all calls. Find the affected code using Copilot.
+### Find the Bug
+
+### Scenario  
+The **Product Catalog Service** has a critical bug: it returns the details of the same product for all API calls, regardless of the input. Your task is to locate the source of the issue in the codebase and identify the affected code using **GitHub Copilot**.
+
+### Challenge Instructions
+
+#### 1. Investigate with Copilot Chat  
+Leverage **GitHub Copilot Chat** to debug the issue by asking targeted questions and prompts
+
+#### 2. Identify the Root Cause  
+With Copilot Chat, locate the exact section of the code causing the issue.
+
+### Success Criteria  
+- You have identified the specific code responsible for the bug using **GitHub Copilot Chat**.  
+
+</details>
 ```
