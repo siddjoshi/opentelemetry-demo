@@ -91,9 +91,9 @@ Determine a diverse set of scenarios to test, including:
 #### 3. Use GitHub Copilot Chat to Generate Test Cases  
 Leverage **Copilot Chat** to help you write code for the identified test scenarios. Use prompts to guide Copilot in generating tests. Ask copilot to generate test case code using `pytest` and `Mock` frameworks.
 
-### Success Criteria
-- You have identified at least **10 distinct scenarios**, including **edge cases**, to write test cases for.  
-- You have successfully generated the code for these test cases using **Copilot Chat**.
+### Level Accomplishment
+- You have unearthed at least **10 distinct test scenarios**, including edge cases, to protect the service.  
+- You have successfully conjured the code for these test cases using **GitHub Copilot Chat**.
   
 </details>
 
