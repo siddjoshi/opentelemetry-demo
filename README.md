@@ -75,13 +75,12 @@ _hint: You may need to ensure the Mermaid Chart Copilot extension is indeed avai
 
 ### Generate Test Cases for the Recommendation Service
 
-### Scenario  
-The **Recommendation Service** in the application currently has no test cases, leaving its functionality unverified and prone to potential bugs. Your task is to use **GitHub Copilot Chat** to create comprehensive test cases for this service and ensure its reliability.
+**Brave explorer!** The **Recommendation Service** in the application is unguarded, leaving its functionality unverified and prone to lurking bugs. Your mission is to write comprehensive test cases for this service with the help of your trusted companion, **GitHub Copilot Chat**.
 
-### Challenge Instructions
+### Instructions for the Quest:
 
 #### 1. Understand the Recommendation Service  
-Examine the codebase of the **Recommendation Service** to understand its core functionality, endpoints, and dependencies. Focus on identifying the inputs, outputs, and key business logic that should be tested.
+Examine **Recommendation Service** to understand its core functionality, endpoints, and dependencies using Copilot. Focus on identifying the inputs, outputs, and key business logic that should be tested.
 
 #### 2. Identify Test Scenarios  
 Determine a diverse set of scenarios to test, including:
