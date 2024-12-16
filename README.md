@@ -42,10 +42,11 @@ https://github.com/user-attachments/assets/82a16a20-d86d-443c-a40d-e3989b848f4b
 
 _hint: you'll want to navigate to one of the sub-folders_
 
-The adventurer who gets the below right clears this level!
-1. Overall repo architecture
-2. The various services
-3. The implementation languages 
+### Success Criteria
+- The adventurer who gets the below right clears this level!
+  1. Overall repo architecture
+  2. The various services
+  3. The implementation languages 
 </details>
 
 <details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
