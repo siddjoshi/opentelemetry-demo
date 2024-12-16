@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/82a16a20-d86d-443c-a40d-e3989b848f4b
 
 # On with the Challenges!
 <details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
-<summary>Challenge - 1</summary>
+<summary> <strong> Challenge - 1 </strong> </summary>
     
 ## Challenge - 1
 ### Overall Architecture of the Project and Identify Services
