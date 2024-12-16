@@ -66,10 +66,25 @@ graph TD
 
 _hint: You may need to ensure the Mermaid Chart Copilot extension is indeed available in your quiver, err browser_
 
+<details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
+<summary>Challenge - 1</summary>
+  
 ## Challenge - 3
-### Unit Test Cases for Recommendation Service
-- Create a comprehensive set of unit test cases for a recommendation service, covering various scenarios and edge cases.
-- Generate code for test cases using `pytest` and `Mock` frameworks.
+### Generate Test Cases for the Recommendation Service
+
+### Scenario  
+The **Recommendation Service** in the application currently has no test cases, leaving its functionality unverified and prone to potential bugs. Your task is to use **GitHub Copilot Chat** to create comprehensive test cases for this service and ensure its reliability.
+
+### Challenge Instructions
+
+#### 1. Understand the Recommendation Service  
+Examine the codebase of the **Recommendation Service** to understand its core functionality, endpoints, and dependencies. Focus on identifying the inputs, outputs, and key business logic that should be tested.
+
+#### 2. Use GitHub Copilot Chat to Generate Test Cases  
+Leverage **Copilot Chat** to help you create robust and meaningful test cases. Use prompts to guide Copilot in generating tests. Ask copilot to generate test case code using `pytest` and `Mock` frameworks.
+
+
+</details>
 
 <details style="border: 1px solid #ccc; background-color: #f9f9f9; padding: 10px; border-radius: 4px;">
 <summary>Challenge - 4</summary>
